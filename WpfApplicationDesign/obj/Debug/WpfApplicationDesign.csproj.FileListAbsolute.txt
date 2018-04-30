@@ -1,0 +1,15 @@
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\bin\Debug\WpfApplicationDesign.exe.config
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\bin\Debug\WpfApplicationDesign.exe
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\bin\Debug\WpfApplicationDesign.pdb
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\MainWindow.g.cs
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\App.g.cs
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign_MarkupCompile.cache
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign_MarkupCompile.lref
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\MainWindow.baml
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\ScrappersStyle.baml
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign.g.resources
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign.Properties.Resources.resources
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign.csproj.GenerateResource.Cache
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign.csproj.CoreCompileInputs.cache
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign.exe
+F:\Faks\3_letnik\2_semester\sv\WpfApplicationDesign\WpfApplicationDesign\obj\Debug\WpfApplicationDesign.pdb
